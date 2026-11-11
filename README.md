@@ -5,12 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Gorenstein projective dg modules.
+- 🌱 I’m currently learning dg categories, homological algebra and French.
+- 👯 I’m looking to collaborate on quiz (a language learning program).
+- 🤔 I’m looking for help with make a living.
+- 💬 Ask me about Community.
+- 📫 How to reach me: zhenhui.ding@imj-prg.fr
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: why so serious?
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="./assets/github-snake.svg" />
+</picture>
+
+![3D Contributions](./profile-3d-contrib/profile-green-animate.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Cosonder&hide_border=true)
