@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: why so serious?
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/cosonder)](https://ghfind.com/u/cosonder?ref=badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
