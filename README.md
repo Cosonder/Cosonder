@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Gorenstein projective dg modules.
 - 🌱 I’m currently learning dg categories, homological algebra and French.
-- 👯 I’m looking to collaborate on quiz (a language learning program).
+- 👯 I’m looking to collaborate on Quiz (a language-learning website/app).
 - 🤔 I’m looking for help with making a living.
 - 💬 Ask me about Community.
 - 📫 How to reach me: zhenhui.ding@imj-prg.fr
