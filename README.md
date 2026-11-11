@@ -2,13 +2,13 @@
 
 <!--
 **Cosonder/Cosonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-—->
-Here are some ideas to get you started:
 
+Here are some ideas to get you started:
+-->
 - 🔭 I’m currently working on Gorenstein projective dg modules.
 - 🌱 I’m currently learning dg categories, homological algebra and French.
 - 👯 I’m looking to collaborate on quiz (a language learning program).
-- 🤔 I’m looking for help with make a living.
+- 🤔 I’m looking for help with making a living.
 - 💬 Ask me about Community.
 - 📫 How to reach me: zhenhui.ding@imj-prg.fr
 - 😄 Pronouns: he/him
