@@ -2,7 +2,7 @@
 
 <!--
 **Cosonder/Cosonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+—->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Gorenstein projective dg modules.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: zhenhui.ding@imj-prg.fr
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: why so serious?
--->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
